@@ -14,3 +14,5 @@ To deploy:
 [Deploy session 6 Scenario for Basic Linux for ABRS template: blfabrstmplt-s06.json](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fadelgadohell%2fblfabrstmplt%2fmain%2fblfabrstmplt-s06.json)
 
 [Deploy session 7 Scenario for Basic Linux for ABRS template: blfabrstmplt-s07.json](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fadelgadohell%2fblfabrstmplt%2fmain%2fblfabrstmplt-s07.json)
+
+[Deploy session 8 Scenario for Basic Linux for ABRS template: blfabrstmplt-s08.json](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fadelgadohell%2fblfabrstmplt%2fmain%2fblfabrstmplt-s08.json)
