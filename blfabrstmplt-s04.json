@@ -523,7 +523,8 @@
           "imageReference": {
             "publisher": "SUSE",
             "offer": "sles-sap-12-sp5",
-            "sku": "gen1"
+            "sku": "gen1",
+            "version": "latest"
           },
           "dataDisks": [
             {
